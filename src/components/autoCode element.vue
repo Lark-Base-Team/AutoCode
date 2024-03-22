@@ -4,7 +4,7 @@
             <el-image
                 style="height: 10em; width: 25em; border: 2px solid #333333; border-radius: 10px"
                 fit="cover"
-                src="/效果图.png"
+                src="./效果图.png"
             />
         </el-row>
         <el-row :gutter="30">
